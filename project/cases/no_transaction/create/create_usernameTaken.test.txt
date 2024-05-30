@@ -1,0 +1,13 @@
+# Verify we cannot create a user with an already taken username
+
+# commands to execute:
+create user1 user1 100
+create User1 user1 98
+quit
+*
+
+# expected output from those commands:
+Created user user1
+Failed to create user
+Goodbye
+*

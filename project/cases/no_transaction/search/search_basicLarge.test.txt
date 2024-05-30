@@ -1,0 +1,53 @@
+search "Seattle WA" "New York NY" 0 15 20
+quit
+*
+
+
+Itinerary 0: 1 flight(s), 300 minutes
+ID: 779839 Day: 15 Carrier: DL Number: 1542 Origin: Seattle WA Dest: New York NY Duration: 300 Capacity: 17 Price: 247
+Itinerary 1: 1 flight(s), 302 minutes
+ID: 3282 Day: 15 Carrier: AA Number: 260 Origin: Seattle WA Dest: New York NY Duration: 302 Capacity: 2 Price: 274
+Itinerary 2: 1 flight(s), 303 minutes
+ID: 78627 Day: 15 Carrier: B6 Number: 86 Origin: Seattle WA Dest: New York NY Duration: 303 Capacity: 9 Price: 262
+Itinerary 3: 2 flight(s), 305 minutes
+ID: 28439 Day: 15 Carrier: AA Number: 1212 Origin: Seattle WA Dest: Dallas/Fort Worth TX Duration: 204 Capacity: 0 Price: 366
+ID: 18290 Day: 15 Carrier: AA Number: 750 Origin: Dallas/Fort Worth TX Dest: New York NY Duration: 101 Capacity: 0 Price: 390
+Itinerary 4: 1 flight(s), 308 minutes
+ID: 730318 Day: 15 Carrier: B6 Number: 264 Origin: Seattle WA Dest: New York NY Duration: 308 Capacity: 0 Price: 529
+Itinerary 5: 1 flight(s), 311 minutes
+ID: 149977 Day: 15 Carrier: DL Number: 2010 Origin: Seattle WA Dest: New York NY Duration: 311 Capacity: 2 Price: 718
+Itinerary 6: 1 flight(s), 315 minutes
+ID: 730421 Day: 15 Carrier: B6 Number: 464 Origin: Seattle WA Dest: New York NY Duration: 315 Capacity: 15 Price: 357
+Itinerary 7: 1 flight(s), 318 minutes
+ID: 783842 Day: 15 Carrier: DL Number: 1109 Origin: Seattle WA Dest: New York NY Duration: 318 Capacity: 8 Price: 134
+Itinerary 8: 2 flight(s), 319 minutes
+ID: 712038 Day: 15 Carrier: AS Number: 660 Origin: Seattle WA Dest: Dallas/Fort Worth TX Duration: 218 Capacity: 1 Price: 483
+ID: 18290 Day: 15 Carrier: AA Number: 750 Origin: Dallas/Fort Worth TX Dest: New York NY Duration: 101 Capacity: 0 Price: 390
+Itinerary 9: 2 flight(s), 319 minutes
+ID: 1085510 Day: 15 Carrier: WN Number: 5696 Origin: Seattle WA Dest: Milwaukee WI Duration: 211 Capacity: 12 Price: 618
+ID: 1084321 Day: 15 Carrier: WN Number: 1208 Origin: Milwaukee WI Dest: New York NY Duration: 108 Capacity: 6 Price: 396
+Itinerary 10: 2 flight(s), 321 minutes
+ID: 28983 Day: 15 Carrier: AA Number: 1232 Origin: Seattle WA Dest: Dallas/Fort Worth TX Duration: 220 Capacity: 12 Price: 186
+ID: 18290 Day: 15 Carrier: AA Number: 750 Origin: Dallas/Fort Worth TX Dest: New York NY Duration: 101 Capacity: 0 Price: 390
+Itinerary 11: 1 flight(s), 322 minutes
+ID: 628176 Day: 15 Carrier: AA Number: 44 Origin: Seattle WA Dest: New York NY Duration: 322 Capacity: 15 Price: 406
+Itinerary 12: 2 flight(s), 322 minutes
+ID: 663482 Day: 15 Carrier: AA Number: 2310 Origin: Seattle WA Dest: Dallas/Fort Worth TX Duration: 221 Capacity: 5 Price: 173
+ID: 18290 Day: 15 Carrier: AA Number: 750 Origin: Dallas/Fort Worth TX Dest: New York NY Duration: 101 Capacity: 0 Price: 390
+Itinerary 13: 2 flight(s), 322 minutes
+ID: 1085509 Day: 15 Carrier: WN Number: 3035 Origin: Seattle WA Dest: Milwaukee WI Duration: 214 Capacity: 15 Price: 325
+ID: 1084321 Day: 15 Carrier: WN Number: 1208 Origin: Milwaukee WI Dest: New York NY Duration: 108 Capacity: 6 Price: 396
+Itinerary 14: 1 flight(s), 326 minutes
+ID: 148486 Day: 15 Carrier: DL Number: 508 Origin: Seattle WA Dest: New York NY Duration: 326 Capacity: 8 Price: 719
+Itinerary 15: 1 flight(s), 328 minutes
+ID: 149200 Day: 15 Carrier: DL Number: 1178 Origin: Seattle WA Dest: New York NY Duration: 328 Capacity: 6 Price: 653
+Itinerary 16: 1 flight(s), 331 minutes
+ID: 78626 Day: 15 Carrier: B6 Number: 176 Origin: Seattle WA Dest: New York NY Duration: 331 Capacity: 10 Price: 979
+Itinerary 17: 1 flight(s), 339 minutes
+ID: 2226 Day: 15 Carrier: AA Number: 198 Origin: Seattle WA Dest: New York NY Duration: 339 Capacity: 1 Price: 607
+Itinerary 18: 1 flight(s), 340 minutes
+ID: 779750 Day: 15 Carrier: DL Number: 1473 Origin: Seattle WA Dest: New York NY Duration: 340 Capacity: 14 Price: 945
+Itinerary 19: 1 flight(s), 356 minutes
+ID: 778402 Day: 15 Carrier: DL Number: 418 Origin: Seattle WA Dest: New York NY Duration: 356 Capacity: 11 Price: 242
+Goodbye
+*

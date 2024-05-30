@@ -1,0 +1,11 @@
+# try paying for a booking without loggin in first
+
+# commands to execute:
+pay 1
+quit
+*
+
+# expected output:
+Cannot pay, not logged in
+Goodbye
+*

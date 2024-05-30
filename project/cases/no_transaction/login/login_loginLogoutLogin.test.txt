@@ -1,0 +1,19 @@
+# verify that even if one user logs in then logs out, another user cannot log in 
+
+# commands to execute:
+create user1 user1 100
+create user2 user2 100
+login user1 user1
+quit
+login user2 user2
+quit
+*
+
+# expected output:
+Created user user1
+Created user user2
+Logged in as user1
+Goodbye
+User already logged in
+Goodbye
+*

@@ -1,0 +1,9 @@
+# confirm that we cannot look at reservations without first loggin in
+
+reservations
+quit
+*
+
+Cannot view reservations, not logged in
+Goodbye
+*
